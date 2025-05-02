@@ -1,0 +1,8 @@
+ssh -i "/Users/sharadpsingh/Documents/Codebase/Reporting_Notification_Bot_Project/pem/scheduler_machine_keyAkash.pem" ubuntu@ec2-13-235-24-60.ap-south-1.compute.amazonaws.com
+
+// to change crontab settings
+crontab -e
+
+// log file path
+abc is the log file name in the same folder
+
