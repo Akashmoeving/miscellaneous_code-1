@@ -8,7 +8,7 @@ from geopy.distance import geodesic
 from httplib2 import Http
 from mysql.connector import MySQLConnection
 
-conn = mysql.connector.connect(host="localhost:3306", user="live_user", password="1PC^&uO$5",
+conn = mysql.connector.connect(host="localhost:3306", user="abcd", password="abcd",
                                database="mydb")
 cursor = conn.cursor()
 
